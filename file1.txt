@@ -1,0 +1,4 @@
+Name : Prathamesh Dahale
+class : TE
+Subject : Wad
+Description : Wad assignment Ass2A
